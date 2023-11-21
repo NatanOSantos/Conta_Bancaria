@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Natan Oliveira\Desktop\conta bancaria\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+698800168.index
+1451188797.index
